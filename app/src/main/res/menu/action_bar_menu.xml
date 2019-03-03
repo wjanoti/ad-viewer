@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/filter_favorites"
+        android:titleCondensed="Options"
+        android:title="Show only favorites"
+        android:onClick="filterFavorites"
+        android:checkable="true"
+        android:icon="@android:drawable/ic_menu_preferences"
+     />
+</menu>

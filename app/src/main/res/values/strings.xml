@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ads Viewer</string>
+    <string name="show_only_favorited_ads">Show only favorited ads</string>
+    <string name="ad_image">Ad image</string>
+    <string name="location_icon">location icon</string>
+    <string name="error_message">Failed loading ads. You can still see your favorites if you have any saved.</string>
+    <string name="preference_file_key">favorites</string>
+    <string name="favorites">favorites</string>
+</resources>
